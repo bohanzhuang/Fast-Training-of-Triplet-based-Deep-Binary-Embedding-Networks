@@ -1,0 +1,16 @@
+
+tar_root_dir: './preprocessed_data/'  # dir to store all the preprocessed files
+
+# caffe style train and validation labels
+traintxt_filename: './preprocessed_data/train.txt'
+valtxt_filename: './preprocessed_data/val.txt'
+
+# original training and testing images. Please prepare raw image data by yourself.
+train_img_dir: './data/cifar_10/train/'
+val_img_dir:  './data/cifar_10/test/'
+
+
+# modify batch_size and img_size here
+
+batch_size: 50
+img_size: 227

@@ -1,0 +1,4 @@
+*.mexmac
+*.mexglx
+*.mexsol
+.gdb_history
