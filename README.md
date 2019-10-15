@@ -2,7 +2,9 @@
 
 ##People
 Bohan Zhuang, Guosheng Lin, Chunhua Shen and Ian Reid.
+
 Code author: Bohan Zhuang
+
 This code is provided for non-profit research purpose only; and is released under the GNU license. 
 For commercial applications, please contact Chunhua Shen http://www.cs.adelaide.edu.au/~chhshen/.
 
